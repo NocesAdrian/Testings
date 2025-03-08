@@ -11,5 +11,9 @@ This repository is for testing and experimenting with various code snippets, fra
 1. Clone the repository:  
    ```bash
    git clone https://github.com/your-username/your-repo.git
+   ```
+   ```bash
    cd your-repo
+   ```
+   ```bash
    ```
